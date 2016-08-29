@@ -7,5 +7,5 @@ Restore your iDevice without iTunes
 
 
 ## Download a compiled version!
-- Go to https://github.com/BananaProject/idevicerestore-gui/release
+- Go to https://github.com/BananaProject/idevicerestore-gui/releases
 - Download the latest version!
